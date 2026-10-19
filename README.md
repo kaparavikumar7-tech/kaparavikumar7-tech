@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Kapa Ravi Kumar 👋
 
-<!--
-**kaparavikumar7-tech/kaparavikumar7-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring DevOps Engineer | AWS | Linux | Python
 
-Here are some ideas to get you started:
+I'm transitioning into DevOps and building practical skills in cloud infrastructure, Linux administration, automation, and troubleshooting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 B.Sc. in Computers — 2026
+- ☁️ Practicing AWS EC2, VPC fundamentals, and Security Groups
+- 🐧 Learning Linux administration and troubleshooting
+- 🐍 Building Python programming fundamentals
+- 🔧 Currently learning Docker and Jenkins
+- 🚀 Working on a three-tier expense application project
+
+## Technical Skills
+
+- Cloud: AWS EC2, VPC fundamentals, Security Groups
+- Operating Systems: Linux, Amazon Linux, Windows
+- Version Control: Git and GitHub fundamentals
+- Programming: Python fundamentals
+- Containerization: Docker (learning)
+- CI/CD: Jenkins (learning)
+
+## Projects
+
+### Static Website Deployment on AWS EC2
+Completed and tested a static website deployment learning project using AWS EC2. Practiced SSH access, Linux commands, and server connectivity troubleshooting.
+
+Repository: https://github.com/kaparavikumar7-tech/devops-static-website
+
+### Three-Tier Expense Application
+Currently developing a learning project involving frontend, application, and database servers, with a focus on AWS networking and troubleshooting.
+
+## Current Learning Goals
+
+- Strengthen Linux and networking fundamentals
+- Improve Git and GitHub workflows
+- Practice Docker and CI/CD pipelines
+- Develop practical AWS and DevOps projects
+
+## Connect With Me
+
+- GitHub: https://github.com/kaparavikumar7-tech
+- Email: ravikumarkapa7@gmail.com
+
+I'm continuously learning and building hands-on projects to prepare for an entry-level DevOps role.
