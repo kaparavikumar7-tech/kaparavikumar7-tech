@@ -32,6 +32,13 @@ Repository: https://github.com/kaparavikumar7-tech/devops-static-website
 ### Three-Tier Expense Application
 Currently developing a learning project involving frontend, application, and database servers, with a focus on AWS networking and troubleshooting.
 
+### AGAPIAN Technologies – AWS Website Deployment with HTTPS
+
+Deployed a business website using AWS EC2, Nginx, Route 53 and Let's Encrypt. Configured HTTPS and automatic HTTP-to-HTTPS redirection.
+
+- **Repository:** [agapian-aws-deployment](https://github.com/kaparavikumar7-tech/agapian-aws-deployment)
+- **Live Website:** [https://agapian.in](https://agapian.in)
+
 ## Current Learning Goals
 
 - Strengthen Linux and networking fundamentals
